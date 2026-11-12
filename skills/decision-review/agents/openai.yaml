@@ -1,0 +1,4 @@
+interface:
+  display_name: "Decision Review"
+  short_description: "Audit project decisions, approvals, and assumptions"
+  default_prompt: "Use $decision-review to audit this project's decisions and identify choices that need my attention."
